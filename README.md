@@ -1,7 +1,3 @@
-Sure! Here's a comprehensive README file content for your social media platform project:
-
----
-
 # Social Media Platform
 
 ## Project Overview
